@@ -1,0 +1,1 @@
+# plugins-dokan-menu-hider
